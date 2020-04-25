@@ -1,5 +1,5 @@
 <?php
-include('doctor-admin/database.php');
+//include('doctor-admin/database.php');
 ?>
 
 <!DOCTYPE html>
