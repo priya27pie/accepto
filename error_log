@@ -1,0 +1,51 @@
+[22-May-2019 15:32:57 Asia/Kolkata] PHP Notice:  Undefined index: cate in /home/itsweb/public_html/doctor/contact.php on line 38
+[22-May-2019 15:32:57 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/itsweb/public_html/doctor/contact.php on line 42
+[22-May-2019 15:32:57 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/itsweb/public_html/doctor/contact.php on line 42
+[22-May-2019 15:34:02 Asia/Kolkata] PHP Notice:  Undefined index: cate in /home/itsweb/public_html/doctor/contact.php on line 38
+[22-May-2019 15:34:51 Asia/Kolkata] PHP Notice:  Undefined index: cate in /home/itsweb/public_html/doctor/contact.php on line 38
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 2
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 9
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 317
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 318
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 346
+[27-May-2019 12:26:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 347
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 2
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 9
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 317
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 318
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 346
+[27-May-2019 12:26:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 347
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 2
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 9
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 317
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 318
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 346
+[27-May-2019 12:26:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 347
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 2
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/doctor-admin/database.php on line 9
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 317
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 318
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/itsweb/public_html/doctor/index.php on line 346
+[27-May-2019 12:26:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/itsweb/public_html/doctor/index.php on line 347
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/arnabgho/public_html/doctor-admin/database.php on line 2
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/arnabgho/public_html/doctor-admin/database.php on line 9
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabgho/public_html/index.php on line 316
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabgho/public_html/index.php on line 317
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabgho/public_html/index.php on line 345
+[25-Jun-2019 02:40:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabgho/public_html/index.php on line 346
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/arnabghoshhajra/public_html/doctor-admin/database.php on line 2
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/doctor-admin/database.php on line 9
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/index.php on line 316
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabghoshhajra/public_html/index.php on line 317
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/index.php on line 345
+[14-Jul-2019 07:08:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabghoshhajra/public_html/index.php on line 346
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/arnabghoshhajra/public_html/doctor-admin/database.php on line 2
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/doctor-admin/database.php on line 9
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/index.php on line 316
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabghoshhajra/public_html/index.php on line 317
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arnabghoshhajra/public_html/index.php on line 345
+[22-Jul-2019 12:48:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/arnabghoshhajra/public_html/index.php on line 346
+[14-Mar-2020 17:13:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/accepto/public_html/doctor-admin/database.php on line 2
+[14-Mar-2020 17:13:16 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/accepto/public_html/doctor-admin/database.php on line 9
+[14-Mar-2020 17:13:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/accepto/public_html/doctor-admin/database.php on line 2
+[14-Mar-2020 17:13:20 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/accepto/public_html/doctor-admin/database.php on line 9
